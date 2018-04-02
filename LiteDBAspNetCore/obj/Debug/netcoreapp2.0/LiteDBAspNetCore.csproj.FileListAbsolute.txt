@@ -1,0 +1,9 @@
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/bin/Debug/netcoreapp2.0/LiteDBAspNetCore.deps.json
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/bin/Debug/netcoreapp2.0/LiteDBAspNetCore.dll
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/bin/Debug/netcoreapp2.0/LiteDBAspNetCore.pdb
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/obj/Debug/netcoreapp2.0/LiteDBAspNetCore.csprojResolveAssemblyReference.cache
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/obj/Debug/netcoreapp2.0/LiteDBAspNetCore.csproj.CoreCompileInputs.cache
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/obj/Debug/netcoreapp2.0/LiteDBAspNetCore.AssemblyInfoInputs.cache
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/obj/Debug/netcoreapp2.0/LiteDBAspNetCore.AssemblyInfo.cs
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/obj/Debug/netcoreapp2.0/LiteDBAspNetCore.dll
+/Users/etuncay/Projects/LiteDBAspNetCore/LiteDBAspNetCore/obj/Debug/netcoreapp2.0/LiteDBAspNetCore.pdb
